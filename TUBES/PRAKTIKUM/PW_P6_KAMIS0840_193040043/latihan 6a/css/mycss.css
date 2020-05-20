@@ -1,0 +1,77 @@
+.container {
+    margin-top: 100px;
+    /* border: 2px solid rgb(10, 178, 230); */
+    /* box-shadow: 5px 5px 5px rgb(10, 178, 230); */
+}
+
+.jumbotron {
+    height: 500px;
+}
+
+.arrival {
+    /* background: rgb(10, 178, 230); */
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.keterangan {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.keterangan h2 {
+    color: #555;
+}
+
+.display-3{
+    text-align: center;
+}
+
+.lead{
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.jumbotron {
+    background-size: cover;
+    height: 440px;
+} 
+
+.jumbotron h1, .jumbotron p {
+    text-align: center;
+    font-weight: 700px;
+    font-family: sans-serif;
+    /* color: rgb(10, 178, 230); */
+}
+
+.produk {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.produk td,.produk th{
+    padding: 12px 5px;
+    border: 1px solid #ddd;
+    text-align: center;
+    font-size: 16px;
+}
+
+.produk th {
+    background-color: coral;
+    color: #ffffff;
+}
+
+.produk tbody tr:nth-child(even) {
+    background-color: #f5f5f5;
+}
+
+.nama {
+    padding: 15px;
+}
